@@ -1,4 +1,4 @@
 
 <Version: 1.01>
-/data/Map002.json https://drive.google.com/open?id=1ECrwqiaIpVmEb970ykyjija1UO1vXg8G
+/data/Map002.json https://1drv.ms/u/s!AvYCDVyyfblmhm8-smvmIcyitG2j
 <End of Version>
